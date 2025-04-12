@@ -17,7 +17,7 @@ A modern, interactive **sphere** created with **HTML**, **JavaScript**, and **Th
 - **Three.js**
 
 ## 📄 License
-MIT License © 2024 Yahia Badr
+MIT License © 2025 Yahia Badr
 
 ## 🌐 Demo
 [Live Demo](#) (Add link to your hosted demo)
