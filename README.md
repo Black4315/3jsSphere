@@ -9,7 +9,7 @@ A modern, interactive **sphere** created with **HTML**, **JavaScript**, and **Th
 
 ## 📸 Snapshot
 
-![3D Sphere Snapshot](assets/images/sphere-snapshot.png)
+![3D Sphere Snapshot](screenshot.png)
 
 ## 🚀 Tech Stack
 - **HTML**
